@@ -7,7 +7,7 @@ public class prueba1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-     //prueba de sincronizacion   
+     //prueba de sincronizacion   123
     }
 
     // Update is called once per frame
